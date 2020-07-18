@@ -1,0 +1,15 @@
+idea
+
+*.py[cod]
+.cache
+*.pyc
+__pycache__
+
+# Packages
+lib
+lib64
+bin
+var
+
+#venv
+azw
