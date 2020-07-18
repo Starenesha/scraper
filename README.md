@@ -17,8 +17,8 @@ python manage.py migrate</code>
 
 <code>python manage.py createsuperuser</code>
 
-<p>To run scraper run this command (list of url from https://www.investing.com/search/?q=Manufacturing%20Purchasing%20Managers&tab=ec_event and value):
-<code> python manage.py parse_series</code>
+<p>To run scraper run this command (list of url from https://www.investing.com/search/?q=Manufacturing%20Purchasing%20Managers&tab=ec_event and value):</p>
+<code> python manage.py parse_series</code><br>
 <code> python manage.py parse_value</code>
 
 
